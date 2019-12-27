@@ -71,7 +71,7 @@ display: block;
 }
 
 .social {
-display: inline-block;
+display: block;
 margin: 150px 100px 100px 500px;
 width: 250px;
 }
