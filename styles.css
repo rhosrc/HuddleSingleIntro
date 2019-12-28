@@ -38,7 +38,7 @@ a {
 
 .mock {
   display: block;
-  margin: 0 10px 100px 100px;
+  margin: 0 10px 100px 75px;
   width: 50%;
   float: left;
   clear: left;
@@ -46,7 +46,7 @@ a {
 
 .copy {
   display: inline-block;
-  margin: 100px 100px 100px 150px;
+  margin: 100px 75px 100px 50px;
   width: 30%;
 }
 
@@ -64,7 +64,7 @@ a {
 }
 
 .logo {
-  margin: 100px 0 100px 100px;
+  margin: 75px 0 100px 75px;
   display: block;
 }
 
